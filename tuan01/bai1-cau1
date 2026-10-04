@@ -1,0 +1,23 @@
+# Tuần 1 - Bài 1: Lập trình di động
+
+## Câu 1: Mong muốn và định hướng sau khi học xong môn
+
+Sau khi học xong môn Lập trình di động, em mong muốn hiểu rõ cách các ứng dụng trên điện thoại hoạt động và có khả năng tự viết một project đơn giản bằng Kotlin trên Android Studio. Em cũng muốn có nền tảng vững để sau này phát triển thêm ứng dụng di động hoặc web.
+
+Bên cạnh kiến thức, em muốn làm quen và thành thạo hơn với GitHub: biết cách quản lý code theo từng tuần, đẩy bài lên đều đặn, và xây dựng một profile GitHub đẹp, thể hiện được quá trình học của bản thân. Em hy vọng những dự án nhỏ trong môn học sẽ là bước đầu để em tích lũy kinh nghiệm cho công việc lập trình sau này.
+
+## Câu 2: Lập trình di động trong 10 năm tới có phát triển không?
+
+Theo em, trong 10 năm tới lập trình di động vẫn sẽ tiếp tục phát triển, vì những lý do sau.
+
+Thứ nhất, điện thoại thông minh đã trở nên cực kỳ phổ biến. Hiện nay rất ít người còn dùng điện thoại phím bấm như trước. Mọi người có thói quen dùng điện thoại gần như mọi lúc: dừng đèn đỏ vài chục giây cũng mở điện thoại lên xem, ăn cơm cũng xem. Điện thoại đã trở thành vật dụng giải trí và làm việc không thể thiếu, thậm chí nhiều người dùng hai, ba chiếc cùng lúc cho các mục đích cá nhân khác nhau. Người dùng càng nhiều thì nhu cầu về ứng dụng càng lớn.
+
+Thứ hai, ứng dụng di động đang len vào mọi lĩnh vực của đời sống: học tập, mua sắm, ngân hàng, thanh toán, y tế, giao thông, giải trí. Nhiều dịch vụ ngày nay chỉ cần một chiếc điện thoại là sử dụng được, nên doanh nghiệp nào cũng cần có ứng dụng riêng.
+
+Thứ ba, công nghệ di động còn tiếp tục tiến bộ, như tích hợp trí tuệ nhân tạo (AI), mạng 5G, thanh toán không tiền mặt và các thiết bị đi kèm như đồng hồ thông minh. Những điều này mở ra nhiều loại ứng dụng mới mà các lập trình viên cần xây dựng.
+
+Vì vậy, em cho rằng lập trình di động là một hướng đi khả quan, nhu cầu nhân lực trong lĩnh vực này sẽ còn tăng trong tương lai.
+
+## Câu 3: Ứng dụng giao diện hồ sơ
+
+Code nằm trong thư mục [bai1-cau3](bai1-cau3/).
